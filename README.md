@@ -8,5 +8,5 @@
 #  [5] Auto Removed Expired IP
 
 ```
-wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/shopeevpn/vvip/main/pam-update.sh" && chmod +x /root/pam-update.sh && "/root/pam-update.sh"
+wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/shopeevpn/pam/main/pam-update.sh" && chmod +x /root/pam-update.sh && "/root/pam-update.sh"
 ```
