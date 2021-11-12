@@ -10,3 +10,7 @@
 ```
 wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/shopeevpn/pam/main/pam-update.sh" && chmod +x /root/pam-update.sh && "/root/pam-update.sh"
 ```
+<h3 align="center">Screenshots</h3>
+<p align="center">
+<img src="https://raw.githubusercontent.com/shopeevpn/inject-data/main/raw/VPNSHOPEE-2.jpg">
+   </p>
